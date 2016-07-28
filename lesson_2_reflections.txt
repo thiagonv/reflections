@@ -1,0 +1,2 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+- O git cria o diretório .git. Para que o git passe a monitorar o diretório. 
