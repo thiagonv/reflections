@@ -13,3 +13,6 @@ e commitando
 Quais são algumas das situações em que branches seriam úteis para manter seu
 histórico organizado? Como branches ajudariam?
 - Para separar as alterações por tipo. Para testar novas funcionalidades.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+- É possível visualizar o caminho dos commits e onde estão em cada branch
