@@ -9,3 +9,7 @@ Como você pode usar a área de preparação para garantir que tenha um commit p
 alteração lógica?
 - Adicionando somente os arquivos que fazem parte da alteração lógica na staging
 e commitando
+
+Quais são algumas das situações em que branches seriam úteis para manter seu
+histórico organizado? Como branches ajudariam?
+- Para separar as alterações por tipo. Para testar novas funcionalidades.
