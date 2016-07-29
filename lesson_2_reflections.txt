@@ -20,4 +20,9 @@ Como os diagramas ajudam a visualizar a estrutura de branches?
 Qual é o resultado da mesclagem de dois branches? Por que o representamos no
 diagrama dessa forma?
 - Mesclar as alterações realizadas em branches diferentes em apenas um. O diagrama
-mostra os branches separados e depois o ponto onde foram mesclados. 
+mostra os branches separados e depois o ponto onde foram mesclados.
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer
+mesclagens manualmente?
+- A automática executa testes simples e já mescla quando não encontra erro. A
+manual permite que você identifique o conflito e escolha o que fazer.
