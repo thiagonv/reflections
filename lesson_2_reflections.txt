@@ -16,3 +16,8 @@ histórico organizado? Como branches ajudariam?
 
 Como os diagramas ajudam a visualizar a estrutura de branches?
 - É possível visualizar o caminho dos commits e onde estão em cada branch
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no
+diagrama dessa forma?
+- Mesclar as alterações realizadas em branches diferentes em apenas um. O diagrama
+mostra os branches separados e depois o ponto onde foram mesclados. 
