@@ -9,4 +9,8 @@ atualizar-se automaticamente com o seu repositório remoto?
 Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria
 um e não os outros?
 - Bifurcações são clones dentro do github. Clones são realizados entre maquinas
-diferentes. Branches são locais, são criadas durante o desenvolvimento. 
+diferentes. Branches são locais, são criadas durante o desenvolvimento.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto
+armazenado localmente?
+- Ter uma copia atualizadas de todas as alteraçoes que está no repositorio remoto
