@@ -14,3 +14,6 @@ diferentes. Branches são locais, são criadas durante o desenvolvimento.
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto
 armazenado localmente?
 - Ter uma copia atualizadas de todas as alteraçoes que está no repositorio remoto
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+- Enviando solitações por e-mail. É mais dificil controlar e testar as alteraçoes. 
