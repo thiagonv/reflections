@@ -13,7 +13,12 @@ diferentes. Branches são locais, são criadas durante o desenvolvimento.
 
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto
 armazenado localmente?
-- Ter uma copia atualizadas de todas as alteraçoes que está no repositorio remoto
+- Ter uma copia atualizadas de todas as alterações que está no repositório remoto
 
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
-- Enviando solitações por e-mail. É mais dificil controlar e testar as alteraçoes. 
+- Enviando solicitações por e-mail. É mais difícil controlar e testar as alterações.
+
+Quando você gostaria de fazer alterações em um branch separado, e não
+diretamente no master? Quais são os benefícios de cada abordagem?
+- O Branch separado é ideal para novas funcionalidades e testes. O branch
+master pode ser usado diretamente para resolver algum bug. 
